@@ -1,0 +1,101 @@
+#tarolo{
+    display: flex;
+    justify-content: center;
+}
+
+#zold1{
+    background-color: green;
+    height: 300px;
+    width: 100%;
+}
+
+#sarga1{
+    background-color: yellow;
+    height: 300px;
+    width: 100%;
+}
+
+#lila1{
+    background-color: purple;
+    height: 300px;
+    width: 100%;
+}
+
+
+
+
+#zold2{
+    background-color: green;
+    height: 300px;
+    width: 100%;
+}
+
+#sarga2{
+    background-color: yellow;
+    height: 300px;
+    width: 200%;
+}
+
+#lila2{
+    background-color: purple;
+    height: 300px;
+    width: 100%;
+}
+
+
+
+
+#taroloketto{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    
+    
+}
+
+#zold3{
+    background-color: green;
+    height: 300px;
+    width: 100%;
+}
+
+#sarga3{
+    background-color: yellow;
+    height: 300px;
+    width: 200%;
+}
+
+
+#lila3{
+    background-color: purple;
+    height: 300px;
+    width: 100%;
+}
+
+
+
+#tarolo3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#zold4{
+    background-color: green;
+    height: 300px;
+    width: 100%;
+}
+
+#sarga4{
+    background-color: yellow;
+    height: 600px;
+    width: 100%;
+    order: 1;
+}
+
+
+#lila4{
+    background-color: purple;
+    height: 300px;
+    width: 100%;
+}
